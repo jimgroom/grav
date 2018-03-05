@@ -5,24 +5,22 @@ visible: false
 ---
 
 ##### Course Facilitators
-Some Name  
-<somename@somewhere.edu>   
-Office hours Mon. 4:00-5:15pm  
-Harbour Centre 2146  
+Lauren Brumfield
+Meredith Fierro
+Jim Groom
+Tim Owens
 
-Another Name  
-<anothername@somewhere.edu>  
+##### Location
+CoWOrk
+2324 Plank Road
+Fredericskburg, VA 22401
 
-##### Canvas LMS
-[Calendar](https://canvas.sfu.ca/calendar)  
-[Assignments](https://canvas.sfu.ca/courses/36662/assignments)  
-[Quizzes](https://canvas.sfu.ca/courses/36662/quizzes)  
-[Class Discussions](https://canvas.sfu.ca/courses/36662/discussion_topics)  
-[Grades](https://canvas.sfu.ca/grades)  
-[Syllabus](https://canvas.sfu.ca/courses/36662/assignments/syllabus)
+##### Dates
+Thursday March 15th and 
+Friday March 16th, 2018
 
 [plugin:page-inject](/webpage-card)
 
 ##### Twitter Feed
-<a class="twitter-timeline"  href="https://twitter.com/hibbittsdesign/lists/cpt-363" data-widget-id="684866063188676608">Tweets from https://twitter.com/hibbittsdesign/lists/cpt-363</a>
+<a class="twitter-timeline"  href="https://twitter.com/reclaimhosting" data-widget-id="684866063188676608">Tweets from https://twitter.com/reclaimhosting</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
