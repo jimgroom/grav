@@ -6,17 +6,23 @@ visible: false
 
 ##### Course Facilitators
 Lauren Brumfield
+
 Meredith Fierro
+
 Jim Groom
+
 Tim Owens
 
 ##### Location
 CoWork
+
 2324 Plank Road
+
 Fredericskburg, VA 22401
 
 ##### Dates
 Thursday March 15th and 
+
 Friday March 16th, 2018
 
 [plugin:page-inject](/webpage-card)
