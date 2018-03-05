@@ -11,7 +11,7 @@ Jim Groom
 Tim Owens
 
 ##### Location
-CoWOrk
+CoWork
 2324 Plank Road
 Fredericskburg, VA 22401
 
