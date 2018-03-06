@@ -8,6 +8,7 @@ visible: false
 * Lauren Brumfield
 * Meredith Fierro
 * Jim Groom
+* Alan Levine
 * Tim Owens
 
 ##### Location
@@ -16,7 +17,8 @@ CoWork
 Fredericskburg, VA 22401
 
 ##### Dates
-Thursday March 15th & Friday March 16th, 2018
+Thursday March 15th & 
+Friday March 16th, 2018
 
 [plugin:page-inject](/webpage-card)
 
