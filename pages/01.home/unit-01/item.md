@@ -1,9 +1,12 @@
 ---
-title: 'Week 1 (Sep 6 - 12)'
-date: 09/06/2017
+title: 'Day 1 (March 15th)'
 published: true
+date: '06-09-2017 00:00'
 header_image_credit: 'Amar Dhari, Flickr.com'
 header_image_creditlink: 'https://www.flickr.com/photos/13202489@N04/17656394823/'
+hide_from_post_list: false
+continue_link: true
+hide_git_sync_repo_link: false
 ---
 
 ##### Presented Slides
