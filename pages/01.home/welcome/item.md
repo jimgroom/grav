@@ -1,5 +1,5 @@
 ---
-title: 'Course Welcome'
+title: Welcome
 media_order: 9516686867_043ea0be0c_z.jpg
 date: '05-09-2017 00:00'
 header_image: false
