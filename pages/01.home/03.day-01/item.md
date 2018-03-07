@@ -4,8 +4,11 @@ published: true
 date: '06-09-2017 00:00'
 header_image_credit: 'Amar Dhari, Flickr.com'
 header_image_creditlink: 'https://www.flickr.com/photos/13202489@N04/17656394823/'
+summary:
+    enabled: '1'
+    format: short
 hide_from_post_list: false
-continue_link: true
+continue_link: false
 hide_git_sync_repo_link: false
 ---
 
