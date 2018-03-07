@@ -13,18 +13,18 @@ Richmond- (62.8 miles away)
 Richmond, Va 23250  
 
 Ronald Regan Washington National Airport- (52.8 miles away)  
-1 Aviation Circle
-Arlington Va, 22202
+1 Aviation Circle  
+Arlington Va, 22202  
 
-Stafford Regional Airport- (10.6 mi away)
-95 Aviation Way
-Fredericksburg Va, 22406
+Stafford Regional Airport- (10.6 mi away)  
+95 Aviation Way  
+Fredericksburg Va, 22406  
 
 #### Train Station:
-VRE Station- (2.7 miles away)
-200 Lafayette Blvd
-Fredericksburg, Va 22401
- 
+VRE Station- (2.7 miles away)  
+200 Lafayette Blvd  
+Fredericksburg, Va 22401  
+
 #### Car/Taxi:
 Enterprise- (3.8 miles away)  
 4810 Jefferson Davis Hwy  
