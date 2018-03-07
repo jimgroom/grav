@@ -35,19 +35,19 @@ Uber | Yellow Cab of Fburg
 ### Accommodations
 
 #### COMFORT:
-##### Hyatt Place Fburg- (1.8 miles away)
+Hyatt Place Fburg- (1.8 miles away)
 1241 Jefferson Davis Hwy
 Fredericksburg, Va 22401
 
-##### Hilton Garden Inn- (3 miles away)
+Hilton Garden Inn- (3 miles away)
 1060 Hospitality Ln
 Fredericksburg, Va 22401
 
 #### CONVENIENCE: 
-##### Best Western- (0.2 miles away)
+Best Western- (0.2 miles away)
 2205 Plank Rd
 Fredericksburg, Va 22401
 
-##### Quality Inn- (next door to office location)
+Quality Inn- (next door to office location)
 2310 Plank Rd
 Fredericksburg Va, 22401
