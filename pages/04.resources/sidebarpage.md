@@ -26,28 +26,28 @@ VRE Station- (2.7 miles away)
 Fredericksburg, Va 22401
  
 #### Car/Taxi:
-Enterprise- (3.8 miles away)
-4810 Jefferson Davis Hwy
-Fredericksburg, Va 22408
+Enterprise- (3.8 miles away)  
+4810 Jefferson Davis Hwy  
+Fredericksburg, Va 22408  
 
-Uber | Yellow Cab of Fburg
+Uber | Yellow Cab of Fburg  
 
 ### Accommodations
 
 #### COMFORT:
-Hyatt Place Fburg- (1.8 miles away)
-1241 Jefferson Davis Hwy
-Fredericksburg, Va 22401
+Hyatt Place Fburg- (1.8 miles away)  
+1241 Jefferson Davis Hwy  
+Fredericksburg, Va 22401  
 
-Hilton Garden Inn- (3 miles away)
-1060 Hospitality Ln
-Fredericksburg, Va 22401
+Hilton Garden Inn- (3 miles away)  
+1060 Hospitality Ln  
+Fredericksburg, Va 22401  
 
 #### CONVENIENCE: 
-Best Western- (0.2 miles away)
-2205 Plank Rd
-Fredericksburg, Va 22401
+Best Western- (0.2 miles away)  
+2205 Plank Rd  
+Fredericksburg, Va 22401  
 
-Quality Inn- (next door to office location)
-2310 Plank Rd
-Fredericksburg Va, 22401
+Quality Inn- (next door to office location)  
+2310 Plank Rd  
+Fredericksburg Va, 22401  
