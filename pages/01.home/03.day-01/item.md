@@ -15,6 +15,7 @@ hide_git_sync_repo_link: false
 ##### 8:00 am – 9:00 am: Breakfast & Coffee
 *  Feel free to come in at any point during this hour,
 find a seat, grab a bite to eat, and get settled.
+
 ===
 
 ##### 9:00 am – 12:00 pm: First Group of Sessions
