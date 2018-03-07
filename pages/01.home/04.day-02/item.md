@@ -1,7 +1,7 @@
 ---
 title: 'Day 2 (March 16th)'
 published: true
-date: '06-03-2018 00:00'
+date: '04-03-2018 00:00'
 header_image_credit: 'CannedTuna, Flickr.com'
 header_image_creditlink: 'https://www.flickr.com/photos/cannedtuna/4853380320/'
 summary:
