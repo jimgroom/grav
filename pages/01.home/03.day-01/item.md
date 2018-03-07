@@ -9,35 +9,22 @@ continue_link: true
 hide_git_sync_repo_link: false
 ---
 
-##### Presented Slides
-[Course Overview](https://swipe.to/9967fp)  
-[Introduction to UX Design](https://swipe.to/9967fp)  
+##### 8:00 am – 9:00 am: Breakfast & Coffee
+// Feel free to come in at any point during this hour,
+find a seat, grab a bite to eat, and get settled.
 
-===
+##### 9:00 am – 12:00 pm: First Group of Sessions
+//Introductions + Feature Wall
+//WHMCS, WHM, WordPress Overviews
+//How & When to Use Each Platform
 
-##### Summaries and Questions  
-[Sep 6th Class One-minute Summaries](https://canvas.sfu.ca/courses/36662/assignments/267528)
 
-##### Presented Slides  
-Introduction to UX ([Download slides as PDF](#))
-<div class="embed-responsive embed-responsive-16by9"><figure><iframe src="https://www.swipe.to/embed/9967fp" allowfullscreen></iframe></figure></div>
-<br>
+##### 12:00 pm – 1:00 pm: Lunch & Break
+//Escape Room Group 1
 
-Introduction to UX ([Download slides as PDF](#))
-<div class="embed-responsive embed-responsive-16by9"><figure><iframe src="https://www.swipe.to/embed/9967fp" allowfullscreen></iframe></figure></div>
-<br>
 
-##### Assignments
-Create [team project group](https://canvas.sfu.ca/courses/36662/users)
-
-##### Handouts
-[Course Overview](https://canvas.sfu.ca/courses/36662/files/folder/Handouts/Course%20Overview)  
-
-##### Recommended Reading  
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.nngroup.com/articles/usability-101-introduction-to-usability/">Usability 101: Introduction to Usability</a>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-
-##### Supplemental Readings  
-[plugin:content-inject](/topics-guide/what-is-usability-and-user-experience-design/problem-statements)
-[plugin:content-inject](/topics-guide/what-is-usability-and-user-experience-design/usability)
-[plugin:content-inject](/topics-guide/what-is-usability-and-user-experience-design/user-experience-design)  
+##### 1:00 pm – 5:00 pm: Second Group of Sessions
+//Deeper Dive in WHMCS & WHM
+//DNS
+//Supporting Domain of One’s Own
+//Exit Strategies, Migrations, Transfers
