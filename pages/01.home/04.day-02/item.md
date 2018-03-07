@@ -4,8 +4,11 @@ published: true
 date: '13-09-2017 00:00'
 header_image_credit: 'CannedTuna, Flickr.com'
 header_image_creditlink: 'https://www.flickr.com/photos/cannedtuna/4853380320/'
+summary:
+    enabled: '1'
+    format: short
 hide_from_post_list: false
-continue_link: true
+continue_link: false
 hide_git_sync_repo_link: false
 ---
 
