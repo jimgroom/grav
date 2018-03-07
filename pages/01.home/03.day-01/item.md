@@ -16,7 +16,6 @@ hide_git_sync_repo_link: false
 *  Feel free to come in at any point during this hour,
 find a seat, grab a bite to eat, and get settled.
 
-===
 
 ##### 9:00 am – 12:00 pm: First Group of Sessions
 * Introductions + Feature Wall
