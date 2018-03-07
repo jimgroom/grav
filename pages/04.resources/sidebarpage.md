@@ -8,11 +8,11 @@ hide_git_sync_repo_link: false
 ### Travel
 
 #### Airports:
-Richmond- (62.8 miles away)
-1 Richard E Byrd Terminal Dr
-Richmond, Va 23250
+Richmond- (62.8 miles away)  
+1 Richard E Byrd Terminal Dr  
+Richmond, Va 23250  
 
-Ronald Regan Washington National Airport- (52.8 miles away)
+Ronald Regan Washington National Airport- (52.8 miles away)  
 1 Aviation Circle
 Arlington Va, 22202
 
