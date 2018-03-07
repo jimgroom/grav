@@ -9,30 +9,18 @@ continue_link: true
 hide_git_sync_repo_link: false
 ---
 
-##### Presented Slides
-[The Process of UX Design](https://swipe.to/9967fp)  
+##### 8:00 am – 9:00 am: Breakfast & Coffee
+// Feel free to come in at any point during this hour,
+find a seat, grab a bite to eat, and get settled.
 
-===
+##### 9:00 am – 12:00 pm: Third Group of Sessions
+//Promoting Domain of One’s Own on Campus
+//Case Studies: Omeka, Scalar, Grav
 
-##### Summaries and Questions  
-[Sep 13th Class One-minute Summaries](https://canvas.sfu.ca/courses/36662/assignments/267537)
+##### 12:00 pm – 1:00 pm: Lunch & Break
+//Escape Room Group 2
 
-##### Presented Slides  
-The Process of UX Design ([Download slides as PDF](#))
-<div class="embed-responsive embed-responsive-16by9"><figure><iframe src="https://www.swipe.to/embed/9967fp" allowfullscreen></iframe></figure></div>
-
-##### CMPT-363 UX Design Process/Toolkit
-![CMPT-363 UX Design Process/Toolkit Diagram](ux-design-process-v4.png)
-
-##### Assignments
-[Project Proposal](https://canvas.sfu.ca/courses/36662/assignments/267529)   
-
-##### Handouts
-[Product Reaction Cards](https://canvas.sfu.ca/courses/36662/files/folder/Handouts/Product%20Reaction%20Cards)  
-
-##### Recommended Reading  
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://medium.com/salesforce-ux/designing-digital-products-with-mental-models-45ac5c0a9dc2">Designing Digital Products with Mental Models</a>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-
-##### Supplemental Readings  
-[plugin:content-inject](/topics-guide/what-does-a-holistic-user-experience-design-process-look-like/user-centered-design)   
+##### 1:00 pm – 4:00 pm: Fourth Group of Sessions
+//SPLOTs with Alan Levine
+//Build Your Own SPLOT
+//Q&A
